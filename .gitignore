@@ -1,0 +1,11 @@
+.idea/
+confirmed/*
+county_census/*
+county_confirmed/*
+daily/
+heatmap/
+labeled/
+predicted/
+cbsas.timeseries.csv
+counties.timeseries.csv
+
